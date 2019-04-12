@@ -1,7 +1,7 @@
 # demo
 demo of a simple rest server built in java/spring
 
-##Instructions
+## Instructions
  - Import this project into IntelliJ as a gradle project
  - There are 3 main files worth looking at to gain some insight into how this works:
     + **build.gradle** - defines what packages our project needs in order to run & make use of the Spring Boot framework
